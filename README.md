@@ -9,16 +9,15 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8CB1F7&background=4EFF9900&vCenter=true&width=435&lines=System+engineer+;How+vexingly+quick+daft+zebras+jump" alt="Typing SVG" /></a>
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
+- 🏢 I'm a System Engineer 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+- 💬 Ask me about my experience with Linux, Cloud aws, and Appach, or anything related to system administration.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmed-nasser-08b223194/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Nasser-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
