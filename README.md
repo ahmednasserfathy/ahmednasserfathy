@@ -7,7 +7,7 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8CB1F7&background=4EFF9900&vCenter=true&width=435&lines=System+engineer+" alt="Typing SVG" /></a>" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8CB1F7&background=4EFF9900&vCenter=true&width=435&lines=System+engineer+" alt="Typing SVG" /></a>
 
 - 🏢 I'm a System Engineer 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
